@@ -1,0 +1,30 @@
+
+ Keyboard commands for YARL v1.2
+ --------------------------------
+
+ move your character (shown as blue disc): <left MB> [uses A*] or <cursor keys> [direct movement, auto-attacks MOBs on collision when weapon selected]
+
+ go upstairs/downstairs (when on stairs, shown as diagonal line): 'u','d'
+
+ attack weakest adjacent monster: <right MB> or 'a'
+
+ cycle items (if present): <mouse wheel> or 'i'
+
+ use item (on the tile in your direction): <right MB>
+
+ (re-)center camera on character: <middle MB> or 'c'
+
+ sound on/off: 's'
+
+ increase/decrease sound volume: '+','-'
+
+ quit game: <escape>    (automatically saves your game to disk)
+
+ when starting, you have the option to load a savegame (if exists).
+
+
+ 
+
+
+ For copying info, please see LICENSE file (this is AGPL'ed software, feel free to modify and distribute, together with this ReadMe and the LICENSE file).
+

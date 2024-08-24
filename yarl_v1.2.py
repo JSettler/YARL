@@ -1516,7 +1516,8 @@ class Game:
                     self.active_item.durability -= 1
                     self.has_mined = True
                 elif current_level.grid[target_y][target_x] == PLACED_ROCK:
-                    self.placed_rocks_count -= 1
+                    # self.placed_rocks_count -= 1
+                    current_level.placed_rocks_count -= 1
 
                 current_level.grid[target_y][target_x] = FLOOR
                 self.rocks += 1

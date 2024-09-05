@@ -1,7 +1,7 @@
 #################################################################################
 #                                                                               #
 # YARL is an endless roguelike game, written in Python3 plus Pygame library     #
-# Copyright (C) 2024 by paws9678 @ Discord                                      #
+# Copyright (C) 2024 by JSettler @ GitHub                                       #
 #                                                                               #
 # This program is free software: you can redistribute it and/or modify          #
 # it under the terms of the GNU [Affero] General Public License as published by #
